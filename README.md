@@ -1,4 +1,4 @@
-# albinson-js
+# coding-bat-javascript
 
 HTML/CSS/JS web site with checker for coding-bat problems.
 
