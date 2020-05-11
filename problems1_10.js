@@ -1,29 +1,3 @@
-names = [
-    "Sleep In",
-    "Monkey Trouble",
-    "String Times",
-    "Front Times",
-    "String Bits",
-    "Caught Speeding",
-    "FizzBuzz",
-    "Tea Party",
-    "Black Jack",
-    "Lone Sum",
-    "First Last 6",
-    "Has 23",
-    "Fix 23 [always red]",
-    "Count YZ",
-    "End Other",
-    "Star Out",
-    "Get Sandwich",
-    "Can Balance",
-    "Count Clumps",
-    "Evenly Spaced",
-    "Count Evens",
-    "Count Hi",
-    "Plus Two [always red]"
-];
-
 test_1 = [
     "sleep_in(true,false)",
     "sleep_in(false,false)",
