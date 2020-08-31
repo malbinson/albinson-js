@@ -47,7 +47,7 @@ function processFunction(select) {
             "</div>"
         );
 
-        if (e == eval("answer_"+item+"[x]")) {
+        if (e.toString() == eval("answer_"+item+"[x].toString()")) {
             $("#output_" + x).css("background", "forestgreen");
             $("#outputImg_" + x).html("<img src='check.png' width='20'/>");
             count++;

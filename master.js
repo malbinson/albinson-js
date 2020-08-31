@@ -29,5 +29,17 @@ names = [
     "28. Linear In",
     "29. Count Triple",
     "30. Same Ends",
-    "31. Let Them Eat Cake"
+    "31. Let Them Eat Cake",
+    "32. All Even",
+    "33. No Space",
+    "34. All Positive",
+    "35. same_vowels",
+    "36. times_ten",
+    "37. shift_right",
+    "38. no_vowels",
+    "39. double_matrix",
+    "40. sum_nums",
+    "41. product_matrix",
+    "42. objectify",
+    "43. lucky_numbers"
 ];
