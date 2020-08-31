@@ -38,7 +38,7 @@ test_36 = [
 answer_36 = [[20,50,90,100]]
 
 test_37 = [
-    "shift_right([{ name: '' }, 10, "left-side"])"
+    "shift_right([{ name: '' }, 10, 'left-side'])"
 ];
 answer_37 = [["left-side", { name: '' }, 10]]
 
